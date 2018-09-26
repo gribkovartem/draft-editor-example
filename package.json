@@ -1,0 +1,21 @@
+{
+  "name": "draft-rte-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tinymce/tinymce-react": "^2.2.6",
+    "draft-js": "^0.10.5",
+    "draft-js-inline-toolbar-plugin": "^2.0.3",
+    "draft-js-mention-plugin": "^3.1.2",
+    "draft-js-plugins-editor": "^2.1.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
